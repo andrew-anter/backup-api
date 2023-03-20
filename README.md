@@ -41,7 +41,7 @@ Start the server
 ## Variables
 
 To run this project, you will need to change the following
-variables in backupServer script to match your personal perfences
+variables in backupServer script to match your personal preferences
 
 `pathToCopyFrom` : the path to folder to copy data from
 
